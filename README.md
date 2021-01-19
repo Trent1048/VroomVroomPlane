@@ -1,2 +1,2 @@
 # VroomVroomPlane
-A Unity game I made for Advanced Video Game Design during Sophomore year of high school.
+A flying simulator game with randomly generated terrain made in Unity.
